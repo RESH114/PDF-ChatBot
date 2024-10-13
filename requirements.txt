@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv # to load env variables
+langchain #lot of functionalities to read the pdf
+PyPDF2 # to read the pdf
+chromadb 
+faiss-cpu #parrallel-processing for CPU in case of multiple files
+langchain_google_genai #for google api
